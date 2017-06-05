@@ -18,3 +18,4 @@ config_schema:
   - ["i2c.enable", true]
 build_vars:
   MGOS_ENABLE_I2C: 1
+  MGOS_ENABLE_SPI: 1
